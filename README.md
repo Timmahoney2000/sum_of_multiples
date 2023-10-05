@@ -1,2 +1,2 @@
 # sum_of_multiples
-Created with CodeSandbox
+Created with CodeSandbox. 
